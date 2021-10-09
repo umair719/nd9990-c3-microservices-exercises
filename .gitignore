@@ -1,2 +1,4 @@
 # Project Credentials Tracking
 project/set_env.sh
+project/udagram-api/package-lock.json
+project/udagram-frontend/package-lock.json
