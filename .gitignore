@@ -2,3 +2,5 @@
 project/set_env.sh
 project/udagram-api/package-lock.json
 project/udagram-frontend/package-lock.json
+project/udagram-api-feed/node_modules
+project/udagram-api-user/node_modules
