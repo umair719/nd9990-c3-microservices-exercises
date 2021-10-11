@@ -1,5 +1,5 @@
 {
-  "name": "udagram-api",
+  "name": "udagram-api-feed",
   "version": "2.0.0",
   "description": "",
   "main": "src/server.js",
@@ -37,13 +37,13 @@
     "@types/node": "^11.11.6",
     "@types/sequelize": "^4.27.44",
     "@types/validator": "^10.9.0",
-    "@typescript-eslint/eslint-plugin": "^2.19.2",
-    "@typescript-eslint/parser": "^2.19.2",
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@typescript-eslint/parser": "^4.33.0",
     "chai": "^4.2.0",
     "chai-http": "^4.2.1",
-    "eslint": "^6.8.0",
+    "eslint": "^8.0.0",
     "eslint-config-google": "^0.14.0",
-    "mocha": "^6.1.4",
+    "mocha": "^9.1.2",
     "ts-node-dev": "^1.0.0-pre.32",
     "typescript": "^3.3.4000"
   }
